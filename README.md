@@ -1,7 +1,5 @@
 # Morrowind-Rings-of-Level-Playing
 ; Script from old Morrowind mod to instantly level a character in Bloodmoon to level 50, especially useful for testing mods with a clean save. This is an adaptation of a script by Grumpy, expanded, revised and attached to a ring in the game. Mod can be downloaded from Morrowind Mod History.
-Begin 1jw_grumpy_add_b50
-	;bloodmoon level 50
 	
 	short OnPcEquip
 	short myadd
